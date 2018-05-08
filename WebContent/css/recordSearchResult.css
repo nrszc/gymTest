@@ -1,0 +1,16 @@
+.wrapper {    
+	margin-top: 90px;
+	margin-bottom: 20px;
+}
+
+.red{
+    color:red;
+    }
+	
+.form-area {
+  /* max-width: 900px; */
+  padding: 35px 38px 25px;	/* 上内边距  右内、左内边距   下内边距 */
+  margin: 0 auto;
+  /* background-color: #FAFAFA; */
+  border: 1px solid GREY; 
+  }
